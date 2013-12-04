@@ -1,0 +1,4 @@
+# (´-ω-｀)
+
+User-agent: *
+Crawl-delay: 60
