@@ -1,6 +1,6 @@
 ## Kyoko Rin ##
 
-**Kyoko Rin** 是 [萌导航](http://www.moe123.com) 新版网站系统的代号，[萌导航](http://www.moe123.com) 是一个萌化的导航网站。
+**Kyoko Rin** 是 [萌导航](http://www.moe123.com) 的一个开放源代码的网站系统的代号，[萌导航](http://www.moe123.com) 是一个萌化的导航网站。
 
 ### GPL v2 协议 ###
 
